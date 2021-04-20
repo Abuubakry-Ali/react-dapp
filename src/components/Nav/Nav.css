@@ -1,0 +1,55 @@
+nav{
+  background-color:rgb(3, 42, 109);
+  display: block;
+  font-size: 62.5%;
+  padding: 3px;
+  height: 50px;
+  margin:0 ;
+
+}
+.navbar-brand{
+  color: white;
+  font-size: 40px;
+font-family: "Human BBY", Arial, sans-serif;
+
+
+  }
+.navbar-brand:hover, .navbar-brand:focus {
+  text-decoration: none;
+}
+.nav-link{
+list-style: none;
+color:white;
+
+}
+.nav-list{
+  list-style: none;
+text-decoration: none;
+  margin: 0 6%;
+  padding: 5px;
+  font-size: 20px;
+  display: flex;
+  min-height: 100%;
+  justify-content: flex-start;
+}
+
+.nav-items{
+margin: 15px 80px;
+
+}
+.nav-itemf{
+  margin:15px 40px 0 0;
+
+}
+.nav-iteml{
+  margin:15px 40px 0 40px;
+
+}
+.active{
+  color:whitesmoke;
+
+}
+li{
+  text-decoration: none;
+color: whitesmoke
+}

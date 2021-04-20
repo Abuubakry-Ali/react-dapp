@@ -1,0 +1,56 @@
+.product{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+
+}
+
+.p {
+  height: 180px;
+  border-style: none;
+}
+.page{
+  background-color:white;
+  height: 100%;
+  position: relative;
+  margin: 0;
+  top:0
+
+}
+.pagedetail{
+  background-color:white;
+  height: 90%;
+  position: absolute;
+  margin: 0;
+width: 100%
+
+
+
+}
+.opt{
+position: absolute;
+padding: 10px;
+top:5%;
+right:  1%
+}
+.pname{
+  padding: 50px 0 20px 10px;
+  margin: 0
+}
+.side{
+  margin-left: 18%
+}
+.sidebar{
+  background-color: whitesmoke;
+ margin: 0;
+  position: absolute;
+  height: 90%;
+  width: 14%
+
+}
+.sidebar button{
+  margin: 50px 0 0 0;
+  font-weight: bold;
+  border: none;
+  display: block;
+}

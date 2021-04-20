@@ -1,0 +1,31 @@
+.reg-form{
+  margin-top:10px;
+    text-align: center;
+  background-color:white;
+  
+  }
+  .sign{
+    padding: 30px
+  }
+  form input {
+    border: 1px solid rgba(252, 252, 252, 0.4);
+  background-color:whitesmoke;
+    width: 250px;
+    border-radius: 3px;
+    font-family: "Source Sans Pro", sans-serif;
+    padding: 10px 15px;
+    margin: 0 auto 10px auto;
+    display: block;
+    text-align: center;
+    font-size: 18px;
+    color:black;
+    font-weight: 300;
+  }
+  .create {
+    text-decoration: underline;
+    cursor: pointer;
+    font-weight: 900;
+  }
+  .login-btn{
+  padding:10px
+  }
